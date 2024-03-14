@@ -11,3 +11,4 @@ experiments in filtering with microsoft sarif-tools
 
 - JSONPath - https://goessner.net/articles/JsonPath/
 -          - https://github.com/json-path/JsonPath (java)
+-          - https://pypi.org/project/sarif-om/
