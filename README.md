@@ -7,3 +7,6 @@ experiments in filtering with microsoft sarif-tools
 -                            - https://sarifweb.azurewebsites.net/
 
 - Markdown lint config - https://github.com/microsoft/sarif-tutorials/blob/main/.markdownlint.yaml
+
+
+- JSONPath - https://goessner.net/articles/JsonPath/
